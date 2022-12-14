@@ -1,0 +1,1 @@
+Kalkulator sprawdza iloraz masy ciała (w kilogramach) w stosunku do wzrostu (w centymetrach) podniesionego do kwadratu. Obliczanie BMI jest proste. Wystarczy, że użytkownik wprowadzi swoją wagę i wzrost w nasz kalkulator.
